@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203298222011",
+    "project_id": "xpense-9ff6f",
+    "storage_bucket": "xpense-9ff6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203298222011:android:4247ce324ccd7cbff8de9e",
+        "android_client_info": {
+          "package_name": "com.example.xpense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzs3CVwghvhlWIeOAUS_sG1l4VUaPAfw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
