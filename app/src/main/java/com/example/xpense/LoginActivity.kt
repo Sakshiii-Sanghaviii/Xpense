@@ -39,7 +39,7 @@ class LoginActivity : AppCompatActivity() {
         }
 
         signupBtn.setOnClickListener {
-            startActivity(Intent(this, SignupActivity::class.java))
+            startActivity(Intent(this, SignUpActivity::class.java))
         }
     }
 }
